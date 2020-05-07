@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1efb291c-787f-4f91-970f-656f589388e2" name="Default Changelist" comment="" />
+    <list default="true" id="1efb291c-787f-4f91-970f-656f589388e2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Card.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Deck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Deck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DiscardPile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DiscardPile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Player.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +20,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1att0k2s5trBXRCRN7AShP8ZrVD" />
   <component name="ProjectViewState">
@@ -41,6 +51,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -65,11 +80,35 @@
       <option name="presentableId" value="Default" />
       <updated>1587566496554</updated>
       <workItem from="1587566502056" duration="7342000" />
-      <workItem from="1587997886011" duration="5265000" />
+      <workItem from="1587997886011" duration="5565000" />
+      <workItem from="1588103537385" duration="1834000" />
+      <workItem from="1588180850148" duration="15892000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="238" key="GridCell.Tab.0.bottom" timestamp="1588870660415">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="238" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588870660415" />
+    <state width="1398" height="238" key="GridCell.Tab.0.center" timestamp="1588870660414">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="238" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1588870660414" />
+    <state width="1398" height="238" key="GridCell.Tab.0.left" timestamp="1588870660414">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="238" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1588870660414" />
+    <state width="1398" height="238" key="GridCell.Tab.0.right" timestamp="1588870660415">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="238" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1588870660415" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1588802077268">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1588802077268" />
   </component>
 </project>
